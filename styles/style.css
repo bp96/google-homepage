@@ -1,0 +1,65 @@
+body, button{
+    font-family: 'Roboto', 'Calibri'
+}
+a {
+    text-decoration: none;
+    color: black;
+    padding: 25px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+header{
+    margin-top: 25px;
+}
+
+#header-left{
+    float: left;
+}
+#header-right{
+    float: right;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    margin: 0 auto;
+    height: 20px;
+    width: 500px;
+    border:1px solid #eaeaea; 
+}
+
+#search-elements{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;;
+}
+
+button{
+    width: 150px;
+    padding: 10px;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 20px;
+}
+
+#footer-left{
+    float: left;
+}
+
+#footer-right{
+    float: right;
+}
+
