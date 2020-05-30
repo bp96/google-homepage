@@ -29,7 +29,7 @@ img{
     padding-bottom: 25px;
 }
 
-input{
+#search-bar{
     display: block;
     padding: 10px;
     margin: 0 auto;
@@ -44,7 +44,7 @@ input{
     padding-top: 30px;
 }
 
-button{
+.button{
     width: 150px;
     padding: 10px;
     margin: auto 25px;
