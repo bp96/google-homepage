@@ -41,12 +41,13 @@ input{
 #search-elements{
     margin: 0 auto;
     text-align: center;
-    padding-top: 30px;;
+    padding-top: 30px;
 }
 
 button{
     width: 150px;
     padding: 10px;
+    margin: auto 25px;
 }
 
 footer{
